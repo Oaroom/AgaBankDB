@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 배경 -->
+
+    <!--6997E0-->
+    <item
+        android:drawable="@color/baisc"/>
+    <!-- 로고 -->
+    <item android:width="300dp" android:height="300dp" android:gravity="center">
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/baby"/>
+    </item>
+</layer-list>
